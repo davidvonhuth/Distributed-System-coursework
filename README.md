@@ -1,4 +1,4 @@
-# Distributed-System-coursework
+# Distributed-Systems-coursework
 
 In this coursework, we were given the following task: 
 
